@@ -2,7 +2,7 @@
 
 I'm Asier, a junior full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
-## :computer: Current stack
+## :computer: Current tech stack
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +15,8 @@ I'm Asier, a junior full stack developer passionate about crafting dynamic web a
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <!--
 **asier-ortiz/asier-ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
