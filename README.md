@@ -1,6 +1,6 @@
 # :wave: Hey there!
 
-![](https://komarev.com/ghpvc/?username=asier-ortiz)
+![](https://komarev.com/ghpvc/?username=asier-ortiz&style=flat-square)
 
 I'm Asier, a junior full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
