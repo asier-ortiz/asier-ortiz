@@ -1,5 +1,7 @@
 # :wave: Hey there!
 
+![](https://komarev.com/ghpvc/?username=asier-ortiz)
+
 I'm Asier, a junior full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
 ## :computer: Tech stack
@@ -22,22 +24,3 @@ I'm Asier, a junior full stack developer passionate about crafting dynamic web a
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-
-
-
-
-<!--
-**asier-ortiz/asier-ortiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
