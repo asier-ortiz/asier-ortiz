@@ -2,7 +2,7 @@
 
 # :wave: Hey there!
 
-I'm Asier, a junior full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
+I'm Asier, a full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
