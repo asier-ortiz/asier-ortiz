@@ -25,4 +25,4 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15)
+![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
