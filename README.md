@@ -4,7 +4,7 @@
 
 I'm Asier, a full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./img/lineBar.png" width="100%" height="8px"/>
 
 ## :computer: Tech Stack
 
@@ -22,7 +22,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="./img/lineBar.png" width="100%" height="8px"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
