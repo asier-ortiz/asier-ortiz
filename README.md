@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=asier-ortiz&style=flat-square)
+![](https://komarev.com/ghpvc/?username=asier-ortiz&style=for-the-badge&color=blue)
 
 # :wave: Hey there!
 
