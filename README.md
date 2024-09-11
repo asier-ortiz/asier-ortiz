@@ -4,7 +4,7 @@
 
 I'm Asier, a full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="./img/line-bar.png" width="100%" height="8px"/>
 
 # :computer: Tech Stack
 
@@ -16,7 +16,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 | Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
 | Services & Tools | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="./img/line-bar.png" width="100%" height="8px"/>
 
 # :books: Currently Learning
 
@@ -27,7 +27,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 ![Supabase](https://img.shields.io/badge/supabase-%2300C7B7.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor%20IDE-black?style=for-the-badge&logo=cursor&logoColor=white)
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="./img/line-bar.png" width="100%" height="8px"/>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
@@ -37,6 +37,6 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 # </> Language Breakdown
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asier-ortiz&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="./img/line-bar.png" width="100%" height="8px"/>
 
 [![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=asierortiz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asierortiz)
