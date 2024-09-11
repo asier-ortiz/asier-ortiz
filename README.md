@@ -6,7 +6,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
 
-## :computer: Tech Stack
+# :computer: Tech Stack
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -18,7 +18,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
 
-## :books: Currently Learning
+# :books: Currently Learning
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -29,12 +29,12 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
 
-## </> Language Breakdown
+# </> Language Breakdown
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asier-ortiz&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
 
 <img src="./img/lineBar.png" width="100%" height="8px"/>
