@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=asier-ortiz&style=for-the-badge&color=blue)
 
+![Header](./img/header.png)
+
 # :wave: Hey there!
 
 I'm Asier, a full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
@@ -32,7 +34,7 @@ I'm Asier, a full stack developer passionate about crafting dynamic web applicat
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
 
-<img src="./img/lineBar.png" width="100%" height="8px"/>
+<img src="./img/line-bar.png" width="100%" height="8px"/>
 
 # </> Language Breakdown
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asier-ortiz&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
