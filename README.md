@@ -4,7 +4,7 @@
 
 # :wave: Hey there!
 
-I'm Asier, a full stack developer passionate about crafting dynamic web applications. Currently honing my skills in the world of web development, I thrive on building seamless user experiences and robust backend systems. From database design to front-end interactions, I love diving into every layer of the development process.
+I’m Asier, a Web Developer with a growing passion for Data Science. While I enjoy crafting dynamic web applications and seamless user experiences, I’m also diving into data-driven solutions, predictive modeling, and machine learning. From backend architecture to front-end interactions—and now, from data processing to AI—I love exploring every layer of the development process.
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
