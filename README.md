@@ -48,6 +48,8 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=asier-ortiz&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/asier-ortiz?pet-id=636848723088724854" width="100%" height="120" />
+    <img src="https://render.gitanimals.org/lines/asier-ortiz?pet-id=636848723088724854" width="250" height="100" />
   </a>
 </div>
+
+<img src="./img/line-bar.png" width="100%" height="8px"/>
