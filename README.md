@@ -51,3 +51,5 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
     <img src="https://render.gitanimals.org/lines/asier-ortiz?pet-id=636848723088724854" width="200" height="120" />
   </a>
 </div>
+
+<img src="./img/line-bar.png" width="100%" height="8px"/>
