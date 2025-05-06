@@ -30,7 +30,7 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
-# 🏆 GitHub Trophies
+# :trophy: GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
@@ -40,7 +40,7 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
-# 👍 Thanks for Visiting
+# :thumbsup: Thanks for Visiting
 
 [![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=asierortiz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asierortiz)
 
