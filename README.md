@@ -40,7 +40,7 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
-# ✨ Thanks for Visiting
+# 👍 Thanks for Visiting
 
 [![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=asierortiz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asierortiz)
 
