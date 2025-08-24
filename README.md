@@ -31,7 +31,7 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
 # :trophy: GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asier-ortiz&theme=onedark&no-frame=false&no-bg=true&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-trophies.vercel.app/?username=asier-ortiz&theme=onedark&no-bg=true&column=3&margin-w=15&margin-h=15)
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
