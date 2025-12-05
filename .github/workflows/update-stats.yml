@@ -26,7 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add img/github-stats.svg
-          git commit -m "Update GitHub stats: dark mode, no title, exclude notebooks" || echo "No changes"
+          git commit -m "Fix workflow push: use PAT in HTTPS URL for authentication" || echo "No changes"
           git push https://${{ secrets.PAT_TOKEN }}@github.com/asier-ortiz/asier-ortiz.git HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
