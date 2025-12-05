@@ -1,5 +1,8 @@
 name: Update GitHub Stats
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -10,11 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate GitHub stats
         uses: cicirello/user-statistician@v1.24.2
         with:
-          image-file: img/github-stats.svg
+          image-file: images/github-stats.svg
           max-languages: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
