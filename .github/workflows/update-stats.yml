@@ -1,8 +1,5 @@
 name: Update GitHub Stats
 
-permissions:
-  contents: write
-
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -13,22 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate GitHub stats
         uses: cicirello/user-statistician@v1.24.2
         with:
-          image-file: images/github-stats.svg
-          max-languages: 5
+          image-file: img/github-stats.svg
+          max-languages: 10
+          include-title: false
+          colors: dark
+          language-repository-exclusions: Jupyter Notebook
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Commit SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add images/github-stats.svg
-          git commit -m "Update GitHub stats" || echo "No changes"
+          git add img/github-stats.svg
+          git commit -m "Update GitHub stats: dark mode, no title, exclude notebooks" || echo "No changes"
           git push
