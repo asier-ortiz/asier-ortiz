@@ -8,6 +8,8 @@ on:
 jobs:
   stats:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Generate GitHub stats
@@ -20,11 +22,11 @@ jobs:
           language-repository-exclusions: Jupyter Notebook
           commit-and-push: false
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add img/github-stats.svg
-          git commit -m "Fix workflow push: use PAT for authentication" || echo "No changes"
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/asier-ortiz/asier-ortiz.git HEAD:main
+          git commit -m "Update GitHub stats" || echo "No changes"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/asier-ortiz/asier-ortiz.git HEAD:main
