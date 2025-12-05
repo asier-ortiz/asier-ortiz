@@ -19,7 +19,7 @@ jobs:
           colors: dark
           language-repository-exclusions: Jupyter Notebook
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
       - name: Commit SVG
         run: |
           git config user.name "github-actions[bot]"
