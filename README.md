@@ -39,6 +39,8 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 # </> Language Breakdown
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asier-ortiz&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
 
+[//]: # (![GitHub Stats]&#40;img/github-stats.svg&#41;)
+
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
 [![Buy me a beer](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=asierortiz&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asierortiz)
