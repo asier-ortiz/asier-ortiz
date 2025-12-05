@@ -36,10 +36,8 @@ I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy cra
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
-# </> Language Breakdown
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asier-ortiz&layout=donut&theme=onedark&langs_count=10&hide=jupyter%20notebook,html,css,blade,shaderlab,scss&card_width=300)
-
-[//]: # (![GitHub Stats]&#40;img/github-stats.svg&#41;)
+# :bar_chart: GitHub Statistics
+![GitHub Stats](img/github-stats.svg)
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 

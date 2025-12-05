@@ -19,7 +19,7 @@ jobs:
           max-languages: 10
           include-title: false
           colors: dark
-          language-repository-exclusions: Jupyter Notebook
+          hide-keys: languages
           commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
