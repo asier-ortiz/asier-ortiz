@@ -18,6 +18,7 @@ jobs:
           include-title: false
           colors: dark
           language-repository-exclusions: Jupyter Notebook
+          commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
       - name: Commit SVG
@@ -27,3 +28,5 @@ jobs:
           git add img/github-stats.svg
           git commit -m "Update GitHub stats: dark mode, no title, exclude notebooks" || echo "No changes"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
