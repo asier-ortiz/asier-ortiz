@@ -19,6 +19,7 @@ jobs:
           max-languages: 10
           include-title: false
           colors: dark
+          exclude: arcgis-python-scripting-course, apuntes-ia-ds, ai-course-notebooks, python-for-data-science-and-machine-learning-bootcamp, tensorflow-tutorial
           commit-and-push: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
