@@ -4,7 +4,7 @@
 
 # :wave: Hey there!
 
-I’m Asier, a Web Developer with a growing passion for AI/ML. While I enjoy crafting dynamic web applications and seamless user experiences, I’m also diving into AI-driven solutions, predictive modeling, and model deployment. From backend architecture to front-end interactions, and now from data pipelines to scalable ML systems, I love exploring every layer of the development process.
+I’m Asier, a Web Developer with a strong passion for AI/ML. While I enjoy crafting dynamic web applications and seamless user experiences, I’m also diving into AI-driven solutions, predictive modeling, and model deployment. From backend architecture to front-end interactions, and now from data pipelines to scalable ML systems, I love exploring every layer of the development process.
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
