@@ -29,6 +29,7 @@ I’m Asier, a Web Developer with a strong passion for AI/ML. While I enjoy craf
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-038585?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
