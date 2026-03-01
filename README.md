@@ -1,5 +1,3 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=asier-ortiz&style=for-the-badge&color=blue)
-
 ![Header](./img/header.png)
 
 # :wave: Hey there!
