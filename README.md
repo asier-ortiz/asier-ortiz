@@ -2,7 +2,7 @@
 
 # :wave: Hey there!
 
-I’m Asier. I build software systems and work with AI/ML.
+I’m Asier. I design and build software and data systems.
 
 <img src="./img/line-bar.png" width="100%" height="8px"/>
 
